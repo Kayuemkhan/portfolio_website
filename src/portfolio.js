@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://Kayuemkhan.github.io/cleanfolio',
+  homepage: 'https://Kayuemkhan.github.io/abdulportfolio',
   title: '/root',
 }
 
@@ -21,6 +21,7 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    image:"",
     name: 'Project 1',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
