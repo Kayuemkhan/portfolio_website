@@ -14,19 +14,20 @@ const ExperienceContainer = () => {
         <a href="https://www.asu.edu/" style={{ color: '#12d640' }}>Genuity Systems</a>
       </h4>
       <h5 style={{ textAlign: 'left' }}>October 2022 - Present</h5>
-      <p style={{ textAlign: 'left', color: '#fff' }}><em>Software Engineer (Android )</em></p>
-      <ul style={{ textAlign: 'left' }}>
+      <p style={{ textAlign: 'left',  }}><em>Software Engineer (Android )</em></p>
+      <ul style={{ textAlign: 'left', listStyleType: 'disc', paddingLeft: '20px' }}>
         <li>Update Java code to Kotlin Dhaka Bank App. Fixed bugs in the VOIP calling app. </li>
         <li>Configured, troubleshot, and administered server‑side web applications for the statistics department.</li>
-        <li>Handled Linux server administration and Apache configuration; automated tasks like user account creation, managing student database, and system maintenance using Shell and automation scripts, reducing manual work by 200%.</li>
+        <li>Handled Linux server administration and Apache configuration; automated tasks like user account creation, managing student database, and system maintenance using Shell and automation scripts, reducing manual work by 200%.     {'\n'}
+</li>
       </ul>
     </div>
     <div className="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
-      <h4 style={{ textAlign: 'left' }}>
+      <h4 style={{ textAlign: 'left'}}>
         <a href="https://www.augmenify.com/" style={{ color: '#12d640' }}>Augmenify Infotech Pvt. Ltd.</a>
       </h4>
       <h5 style={{ textAlign: 'left' }}>August 2020 - November 2020</h5>
-      <p style={{ textAlign: 'left', color: '#fff' }}><em>Backend Developer</em></p>
+      <p style={{ textAlign: 'left' }}><em>Backend Developer</em></p>
       <ul style={{ textAlign: 'left' }}>
         <li>Documented and coded server‑less web application for the hotel industry and designed REST API using Flask‑based JWT authentication.</li>
         <li>Redeveloped an existing system to support customer account management, scheduling, and time tracking; enabled dynamic API calls with the help of Amazon API Gateway, AWS Lambda, and DynamoDB.</li>
