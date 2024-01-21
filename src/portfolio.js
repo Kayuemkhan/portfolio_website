@@ -18,16 +18,13 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
-    image:"",
-    name: 'Project 1',
+    name: 'Picky - Online Shopping BD',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Picky is an e-commerce app offers a convenient and user-friendly shopping experience. ',
+    stack: ['Flutter', 'Getx', 'ShoreBird'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://play.google.com/store/apps/details?id=com.haitsofts.picky&hl=en&gl=US',
   },
   {
     name: 'Project 1',
@@ -56,8 +53,7 @@ const projects = [
 ]
 
 const experience = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
+
   {
     name: 'Project 1',
     description:

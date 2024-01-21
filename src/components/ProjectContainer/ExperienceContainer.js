@@ -18,8 +18,6 @@ const ExperienceContainer = () => {
       <ul style={{ textAlign: 'left', listStyleType: 'disc', paddingLeft: '20px' }}>
         <li>Update Java code to Kotlin Dhaka Bank App. Fixed bugs in the VOIP calling app. </li>
         <li>Configured, troubleshot, and administered server‑side web applications for the statistics department.</li>
-        <li>Handled Linux server administration and Apache configuration; automated tasks like user account creation, managing student database, and system maintenance using Shell and automation scripts, reducing manual work by 200%.     {'\n'}
-</li>
       </ul>
     </div>
     <hr />
