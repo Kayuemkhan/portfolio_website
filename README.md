@@ -1,13 +1,5 @@
 # abdulportfolio
 
-abdulportfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [abdulportfolio Minimal](https://github.com/rajshekhar26/abdulportfolio-minimal).
-
-## Preview
-
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/abdulportfolio)
-
-[Live Demo](https://rajshekhar26.github.io/abdulportfolio)
-
 ## Instructions
 
 ### Setup
