@@ -1,6 +1,9 @@
 import uniqid from 'uniqid'
-import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
+
+import PlayStoreIcon from './icons/playstore.png'
+import AppStore from './icons/App_Store_(iOS).svg.png'
+
 import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
@@ -24,7 +27,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='source code'
         className='link link--icon'
       >
-        <GitHubIcon />
+      <img src={PlayStoreIcon} alt="Play Store" width="32" height="32" />
       </a>
     )}
 
@@ -34,7 +37,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='live preview'
         className='link link--icon'
       >
-        <LaunchIcon />
+      <img src={AppStore} alt="Play Store" width="32" height="32" />
       </a>
     )}
   </div>

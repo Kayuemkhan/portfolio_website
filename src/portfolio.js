@@ -19,37 +19,31 @@ const about = {
 
 const projects = [
   {
+    name: 'DBL Go',
+    description:
+      'Dhaka Bank go is a mobile banking app. It gives you secure access to your Dhaka Bank Accounts and Credit Cards anytime, anywhere',
+    stack: ['Android', 'Kotlin', ''],
+    sourceCode: 'https://play.google.com/store/apps/details?id=com.gplex.dhakabank&hl=en&gl=US',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'Picky - Online Shopping BD',
     description:
-      'Picky is an e-commerce app offers a convenient and user-friendly shopping experience. ',
+      'Picky is an e-commerce app offers a convenient and user-friendly shopping experience ',
     stack: ['Flutter', 'Getx', 'ShoreBird'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://play.google.com/store/apps/details?id=com.haitsofts.picky&hl=en&gl=US',
+    sourceCode: 'https://play.google.com/store/apps/details?id=com.haitsofts.picky&hl=en&gl=US',
+    livePreview: 'https://apps.apple.com/us/app/picky-online-shopping-bd/id1613911394',
   },
+  
   {
-    name: 'Project 1',
+    name: 'Foxy Pizza',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Pizza Delivery, Takeaway, & Eat in.It is providing the all-possible ways of ordering the most delicious pizza in the city. ',
+      stack: ['Flutter', 'Getx', ''],
+      sourceCode: 'https://play.google.com/store/apps/details?id=com.foxy.user&hl=en&gl=US',
+    livePreview: 'https://apps.apple.com/us/app/foxy-pizza/id1660795503',
   },
-  {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  
 ]
 
 const experience = [
