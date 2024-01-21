@@ -22,6 +22,8 @@ const ExperienceContainer = () => {
 </li>
       </ul>
     </div>
+    <hr />
+
     <div className="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100">
       <h4 style={{ textAlign: 'left'}}>
         <a href="https://www.augmenify.com/" style={{ color: '#12d640' }}>Augmenify Infotech Pvt. Ltd.</a>
