@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.0e347bfe.css",
-    "main.js": "/cleanfolio/static/js/main.63586287.js",
-    "static/media/App_Store_(iOS).svg.png": "/cleanfolio/static/media/App_Store_(iOS).svg.9672c7659d6cd4a160d1.png",
-    "static/media/playstore.png": "/cleanfolio/static/media/playstore.23f630669d8da5a9a1e4.png",
-    "index.html": "/cleanfolio/index.html",
-    "main.0e347bfe.css.map": "/cleanfolio/static/css/main.0e347bfe.css.map",
-    "main.63586287.js.map": "/cleanfolio/static/js/main.63586287.js.map"
+    "main.css": "/abdulportfolio/static/css/main.0e347bfe.css",
+    "main.js": "/abdulportfolio/static/js/main.740d4cd8.js",
+    "static/media/App_Store_(iOS).svg.png": "/abdulportfolio/static/media/App_Store_(iOS).svg.9672c7659d6cd4a160d1.png",
+    "static/media/playstore.png": "/abdulportfolio/static/media/playstore.23f630669d8da5a9a1e4.png",
+    "index.html": "/abdulportfolio/index.html",
+    "main.0e347bfe.css.map": "/abdulportfolio/static/css/main.0e347bfe.css.map",
+    "main.740d4cd8.js.map": "/abdulportfolio/static/js/main.740d4cd8.js.map"
   },
   "entrypoints": [
     "static/css/main.0e347bfe.css",
-    "static/js/main.63586287.js"
+    "static/js/main.740d4cd8.js"
   ]
 }
