@@ -19,12 +19,12 @@ const about = {
 
 const projects = [
   {
-    name: 'Project 1',
+    name: 'Picky - Online Shopping BD',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Picky is an e-commerce app offers a convenient and user-friendly shopping experience. ',
+    stack: ['Flutter', 'Getx', 'ShoreBird'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://play.google.com/store/apps/details?id=com.haitsofts.picky&hl=en&gl=US',
   },
   {
     name: 'Project 1',
