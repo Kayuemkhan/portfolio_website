@@ -6,7 +6,9 @@
 .about__name {
   color: var(--clr-primary);
 }
-
+.about__contact{
+  align-items: flex;
+}
 .about__role {
   margin-top: 1.2em;
 }
