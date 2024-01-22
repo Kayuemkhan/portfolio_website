@@ -8,6 +8,9 @@ const Footer = () => (
     >
       Created By Abdul Kayuem
     </a>
+    <br />
+
+    <a href='https://github.com/rajshekhar26/cleanfolio'>Main Template</a>
   </footer>
 )
 
