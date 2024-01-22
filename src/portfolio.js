@@ -73,6 +73,9 @@ const skills = [
   'Flutter',
   'REST API',
   'Material UI',
+  'Machine Learning',
+  'Tensorflow',
+  'MySQL',
   'Git',
   'CI/CD',
 ]
