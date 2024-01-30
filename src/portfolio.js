@@ -10,7 +10,7 @@ const about = {
   role: 'Mobile Engineer',
   description:
     'I’m a mobile app developer with more than three years of experience in the software industry, specializing in Java, Kotlin, Android, and Flutter. Over the years, I have developed complex systems for POS, Telemedicine, WebRTC, and E-commerce applications. I love building innovative and impactful software that improves the lives of a vast number of people',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1YyFiHSjNT-C4w_8R4pIaUQBeCktQtm-O/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
     github: 'https://github.com/Kayuemkhan',
