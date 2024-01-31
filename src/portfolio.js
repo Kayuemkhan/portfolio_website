@@ -10,7 +10,7 @@ const about = {
   role: 'Mobile Engineer',
   description:
     'I’m a mobile app developer with more than three years of experience in the software industry, specializing in Java, Kotlin, Android, and Flutter. Over the years, I have developed complex systems for POS, Telemedicine, WebRTC, and E-commerce applications. I love building innovative and impactful software that improves the lives of a vast number of people',
-  resume: 'https://drive.google.com/file/d/1ofHXn7Q9iFaW74RnXa_SElhw9QipIFRy/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1HF04SX-oX4GU0rSVxycoDfpUxw1yEdxI/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
     github: 'https://github.com/Kayuemkhan',
@@ -24,7 +24,6 @@ const projects = [
       'Dhaka Bank go is a mobile banking app. It gives you secure access to your Dhaka Bank Accounts and Credit Cards anytime, anywhere',
     stack: ['Android', 'Kotlin', ''],
     sourceCode: 'https://play.google.com/store/apps/details?id=com.gplex.dhakabank&hl=en&gl=US',
-    // livePreview: 'https://github.com',
   },
   {
     name: 'Picky - Online Shopping BD',
