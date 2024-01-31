@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abdulportfolio/static/css/main.cb31ac0b.css",
-    "main.js": "/abdulportfolio/static/js/main.9ee1641e.js",
+    "main.js": "/abdulportfolio/static/js/main.df9e44d8.js",
     "static/media/App_Store_(iOS).svg.png": "/abdulportfolio/static/media/App_Store_(iOS).svg.9672c7659d6cd4a160d1.png",
     "static/media/playstore.png": "/abdulportfolio/static/media/playstore.23f630669d8da5a9a1e4.png",
     "index.html": "/abdulportfolio/index.html",
     "main.cb31ac0b.css.map": "/abdulportfolio/static/css/main.cb31ac0b.css.map",
-    "main.9ee1641e.js.map": "/abdulportfolio/static/js/main.9ee1641e.js.map"
+    "main.df9e44d8.js.map": "/abdulportfolio/static/js/main.df9e44d8.js.map"
   },
   "entrypoints": [
     "static/css/main.cb31ac0b.css",
-    "static/js/main.9ee1641e.js"
+    "static/js/main.df9e44d8.js"
   ]
 }
