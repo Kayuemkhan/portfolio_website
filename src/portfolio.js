@@ -21,8 +21,8 @@ const projects = [
   {
     name: 'DBL Go',
     description:
-      'Converted the Dhaka Bank Go app from Java to Kotlin, upgraded the UI with the latest architecture,'+
-      'and optimized performance, serving over 100,000 users, solved security issues detected by Dhaka Bank'+
+      'Converted the Dhaka Bank Go app from Java to Kotlin, upgraded the UI with the latest architecture, ' +
+      'and optimized performance, serving over <strong>100,000 users</strong>, solved security issues detected by Dhaka Bank ' +
       'securities',
     stack: ['Android', 'Kotlin', ''],
     sourceCode: 'https://play.google.com/store/apps/details?id=com.gplex.dhakabank&hl=en&gl=US',
@@ -30,23 +30,22 @@ const projects = [
   {
     name: 'Picky - Online Shopping BD',
     description:
-      'Enhanced the design and implementation of an e-commerce app Picky with over 50,000 downloads and'+
-      'Integrated a payment gateway saved times of 20 Riders',
-    stack: ['Flutter', 'Getx','REST','Firebase', 'ShoreBird'],
+      'Enhanced the design and implementation of an e-commerce app Picky with over <strong>50,000 downloads</strong> and ' +
+      'integrated a payment gateway, saving time for 20 Riders',
+    stack: ['Flutter', 'Getx', 'REST', 'Firebase', 'ShoreBird'],
     sourceCode: 'https://play.google.com/store/apps/details?id=com.haitsofts.picky&hl=en&gl=US',
     livePreview: 'https://apps.apple.com/us/app/picky-online-shopping-bd/id1613911394',
   },
-  
   {
     name: 'Foxy Pizza',
     description:
-      'Pizza Delivery, Takeaway, & Eat in.It is providing the all-possible ways of ordering the most delicious pizza in the city. ',
-      stack: ['Flutter', 'Getx','REST','Firebase'],
-      sourceCode: 'https://play.google.com/store/apps/details?id=com.foxy.user&hl=en&gl=US',
+      'Pizza Delivery, Takeaway, & Eat in. It is providing all-possible ways of ordering the most delicious pizza in the city.',
+    stack: ['Flutter', 'Getx', 'REST', 'Firebase'],
+    sourceCode: 'https://play.google.com/store/apps/details?id=com.foxy.user&hl=en&gl=US',
     livePreview: 'https://apps.apple.com/us/app/foxy-pizza/id1660795503',
   },
-  
 ]
+
 
 const experience = [
 

@@ -1,3 +1,4 @@
+import React from 'react'
 import uniqid from 'uniqid'
 import LaunchIcon from '@material-ui/icons/Launch'
 
@@ -10,7 +11,12 @@ const ProjectContainer = ({ project }) => (
   <div className='project'>
     <h3>{project.name}</h3>
 
-    <p className='project__description'>{project.description}</p>
+    {/* Render the description with HTML tags */}
+    <p
+      className='project__description'
+      dangerouslySetInnerHTML={{ __html: project.description }}
+    />
+
     {project.stack && (
       <ul className='project__stack'>
         {project.stack.map((item) => (
@@ -27,7 +33,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='source code'
         className='link link--icon'
       >
-      <img src={PlayStoreIcon} alt="Play Store" width="32" height="32" />
+        <img src={PlayStoreIcon} alt="Play Store" width="32" height="32" />
       </a>
     )}
 
@@ -37,7 +43,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='live preview'
         className='link link--icon'
       >
-      <img src={AppStore} alt="Play Store" width="32" height="32" />
+        <img src={AppStore} alt="App Store" width="32" height="32" />
       </a>
     )}
   </div>
