@@ -15,7 +15,14 @@ const About = () => {
       )}
 
       {role && <h2 className='about__role'>A {role}.</h2>}
-      <p className='about__desc'>{description && description}</p>
+
+      {/* Render the description with HTML tags */}
+      {description && (
+        <p
+          className='about__desc'
+          dangerouslySetInnerHTML={{ __html: description }}
+        />
+      )}
 
       <div className='about__contact center'>
         {resume && (
