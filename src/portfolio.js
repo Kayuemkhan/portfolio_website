@@ -75,7 +75,6 @@ const skills = [
   'Git',
   'CI/CD',
   'Trello',
-  ''
 ]
 
 const contact = {
