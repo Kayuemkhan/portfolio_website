@@ -10,7 +10,7 @@ const about = {
   description:
     'I’m a mobile app developer with more than <strong>Four years</strong> of experience in the software industry, specializing in <strong>Java, Kotlin, Android</strong>, and <strong>Flutter</strong>.' +
     ' Over the years, I have developed complex systems for <strong>Banking Apps</strong>,<strong>Fintech</strong>, <strong>POS</strong>, <strong>Telemedicine</strong>, <strong>WebRTC</strong>, and <strong>E-commerce</strong> applications. I love building innovative and impactful software that improves the lives of a vast number of people.',
-  resume: 'https://drive.google.com/file/d/1AFhcUTvvDGE0UtWJ7K8XIeDWqJXIw_jL/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1ufFPF_tsdbCK9vtYQdWaXi9Es2J2ooS5/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
     github: 'https://github.com/Kayuemkhan',
